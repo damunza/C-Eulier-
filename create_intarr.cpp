@@ -17,7 +17,7 @@ void display_values(int list[], int size){
     ptr = list;
     cout << "Elements of the array are: "; 
     for(int i = 0; i < size ; i ++ ){
-        cout << ptr[i] << " "; 
+        cout << ptr[i] << " "<< endl; 
         }
 } 
  
