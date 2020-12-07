@@ -8,7 +8,7 @@ This is a collection of all the most challenging problems encountered while lear
 
 ## creat_intarr
 
-![unsplash ](https://unsplash.com/photos/qXn5L9BqRbE)
+![un]:https://unsplash.com/photos/qXn5L9BqRbE
 
 ### Description
 This specific eulier entailed creating an array of integers
