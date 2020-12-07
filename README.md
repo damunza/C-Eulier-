@@ -8,7 +8,7 @@ This is a collection of all the most challenging problems encountered while lear
 
 ## creat_intarr
 
-![https://unsplash.com/@jamessutton_photography](https://unsplash.com/photos/qXn5L9BqRbE )
+![unsplash @jamessutton_photography](https://unsplash.com/photos/qXn5L9BqRbE )
 
 ### Description
 This specific eulier entailed creating an array of integers
@@ -44,7 +44,7 @@ hopefully this helps you as much as it did help me.
 
 ## create_intvectors
 
-![https://unsplash.com/@ashkfor121](https://unsplash.com/photos/11YQuWPQ9Bw)
+![unsplash @ashkfor121](https://unsplash.com/photos/11YQuWPQ9Bw)
 
 ### Description
 
@@ -76,6 +76,7 @@ int main(){
 
 *console input*
 > 3 1 2 4
+
 > 5 6 7 9 4 8
 
 *code*
@@ -109,10 +110,12 @@ for (list = 0; list < maxval; list++){
 
 *console input*
 > 0 1
+
 > 1 3
 
 *program return*
 > 2
+
 > 9
 
 *code*
