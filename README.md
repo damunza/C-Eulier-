@@ -8,7 +8,7 @@ This is a collection of all the most challenging problems encountered while lear
 
 ## creat_intarr
 
-![alt text](https://unsplash.com/photos/qXn5L9BqRbE "https://unsplash.com/@jamessutton_photography")
+![https://unsplash.com/@jamessutton_photography](https://unsplash.com/photos/qXn5L9BqRbE )
 
 ### Description
 This specific eulier entailed creating an array of integers
@@ -44,7 +44,7 @@ hopefully this helps you as much as it did help me.
 
 ## create_intvectors
 
-![alt text](https://unsplash.com/photos/11YQuWPQ9Bw "https://unsplash.com/@ashkfor121")
+![https://unsplash.com/@ashkfor121](https://unsplash.com/photos/11YQuWPQ9Bw)
 
 ### Description
 
